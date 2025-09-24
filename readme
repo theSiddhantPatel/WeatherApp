@@ -1,0 +1,39 @@
+Weather Dashboard 🌤️
+A sleek weather app that provides real-time weather information for any city worldwide.
+
+Features
+🌍 City Search: Get weather for any city
+
+📱 Responsive: Works on desktop and mobile
+
+🎨 Modern UI: Glassmorphism design
+
+📊 Detailed Metrics: Temperature, wind, humidity, pressure
+
+⏰ Real-time: Live date and time updates
+
+Setup
+Clone the repository:
+
+bash
+git clone https://github.com/thesiddhantpatel/weather-dashboard.git
+Open index.html in your browser
+
+Get an API key from OpenWeatherMap and replace the placeholder in the code
+
+Usage
+Enter a city name
+
+Click search or press Enter
+
+View current weather conditions
+
+Technologies
+HTML5, CSS3, JavaScript
+
+OpenWeatherMap API
+
+Font Awesome Icons
+
+Developer: Siddhant Patel
+License: BIET
